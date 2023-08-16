@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shubhrapal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhrapal" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/tushar-shubhra-pal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar-pal-638a17204" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tushar-shubhra-pal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar-shubhra-pal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/paltushar2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="paltushar2001" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dev-tushar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dev-tushar" height="30" width="40" /></a>
 </p>
